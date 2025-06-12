@@ -1,0 +1,27 @@
+.hero-section {
+    color: white;
+    padding: 100px 0;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+}
+.product-card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.bg-color{
+background-color: #1B262C;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+.price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #28a745; /* Warna hijau untuk harga */
+}
+.old-price {
+    text-decoration: line-through;
+    color: #dc3545; /* Warna merah untuk harga lama */
+    margin-left: 10px;
+}
