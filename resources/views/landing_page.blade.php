@@ -23,7 +23,7 @@
                                 alt="3D rendering of an imaginary green planet in space" />
                             <img id="slide-3" src="{{ asset('images/images2.jpg') }}"
                                 alt="3D rendering of an imaginary blue planet in space" />
-                            <img id="slide-4" src="{{ asset('images/images2.jpg') }}"
+                            <img id="slide-4" src="{{ asset('images/images1.png') }}"
                                 alt="3D rendering of an imaginary blue planet in space" />
                         </div>
                         <div class="slider-nav">
